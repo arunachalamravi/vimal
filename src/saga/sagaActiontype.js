@@ -1,0 +1,4 @@
+export const WATCH_REQUEST="WATCH_REQUEST"
+export const REQUESTASYNC="REQUESTASYNC"
+export const SUCCESS="SUCCESS"
+export const FAILURE ="FAILURE"
